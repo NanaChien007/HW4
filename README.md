@@ -7,7 +7,7 @@ https://nana-chien.itch.io/w1-in-class
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
-The e, g, b variables are floats because RGB value in Unity can contain decimals between 0.0 and 1.0, float let us store the decimal values while ints only store whole numbers.
+The r, g, b variables are floats because RGB value in Unity can contain decimals between 0.0 and 1.0, float let us store the decimal values while ints only store whole numbers.
 
 _bounce variable is an int because it counts the number of times the ball bounces, they are all whole numbers so theres no need for decimal values
 
