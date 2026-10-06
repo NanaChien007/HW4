@@ -1,8 +1,9 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+when Moved the camera layer above the cat, the camera stopped following the cat as first person, but rather just sit in the same spot while the cat moves
 
+https://nana-chien.itch.io/w1-in-class
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
