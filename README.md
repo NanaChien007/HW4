@@ -29,6 +29,9 @@ Output: float
 Activity 2
 A class could be described as a art palette, while the component is the paint the fills in the whole on the palette, and the variable would be the choose/mix of color 
 
+Activity 3
+Because the code is multiplying the ball's current color every time it bounces
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
