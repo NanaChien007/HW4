@@ -36,6 +36,11 @@ Because the code is multiplying the ball's current color every time it bounces
 
 The FloatAnimation script makes the fish food move up and down releatedly. The start () method sets the _timer to the value of _switchSpeed when the game begins. The Update () method runs every frame and controls the movement of the food. It uses the _up variable to determine which direction the food should move. When _up is true, the food moves upward, and when it's false, the food moves downward. The_timer decreases over time using Time.deltaTime, and once it reaches zero, it resets and switches the value of _up. This makes the food continously change directions and creates the floating animation. 
 
+
+### W9
+
+https://docs.google.com/drawings/d/1guaLHKu4HPlHOXf-3tyLUzdFrcX5fQPuAd4iNXwO-ZM/edit?usp=sharing
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
